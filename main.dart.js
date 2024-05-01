@@ -83503,7 +83503,7 @@ $S:41}
 A.a9c.prototype={}
 A.x9.prototype={
 af(){var s=t.N,r=t.z
-return new A.Qc(new A.MJ(B.y1,$.at()),new A.bz(null,t.am),A.b([A.av(["name","USD","rate","57","symbol","$"],s,r),A.av(["name","EUR","rate","61","symbol","\u20ac"],s,r),A.av(["name","JPY","rate","0.4","symbol","\xa5"],s,r),A.av(["name","GBP","rate","71","symbol","\xa3"],s,r),A.av(["name","AUD","rate","37","symbol","A$"],s,r),A.av(["name","CAD","rate","41.5","symbol","$"],s,r),A.av(["name","CHF","rate","62","symbol","\u20a3"],s,r),A.av(["name","RMB (CNY)","rate","8","symbol","\xa5"],s,r),A.av(["name","HKD","rate","7.5","symbol","HK$"],s,r),A.av(["name","INR","rate","0.7","symbol","\u20b9"],s,r),A.av(["name","PHP","rate","1","symbol","\u20b1"],s,r)],t.H7),B.k)}}
+return new A.Qc(new A.MJ(B.y1,$.at()),new A.bz(null,t.am),A.b([A.av(["name","USD","rate","58","symbol","$"],s,r),A.av(["name","EUR","rate","61","symbol","\u20ac"],s,r),A.av(["name","JPY","rate","0.4","symbol","\xa5"],s,r),A.av(["name","GBP","rate","71","symbol","\xa3"],s,r),A.av(["name","AUD","rate","37","symbol","A$"],s,r),A.av(["name","CAD","rate","41.5","symbol","$"],s,r),A.av(["name","CHF","rate","62","symbol","\u20a3"],s,r),A.av(["name","RMB (CNY)","rate","8","symbol","\xa5"],s,r),A.av(["name","HKD","rate","7.5","symbol","HK$"],s,r),A.av(["name","INR","rate","0.7","symbol","\u20b9"],s,r),A.av(["name","PHP","rate","1","symbol","\u20b1"],s,r)],t.H7),B.k)}}
 A.Qc.prototype={
 K(a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a=A.W(255,58,86,131).a
 a=A.W(255,a>>>16&255,a>>>8&255,a&255)
